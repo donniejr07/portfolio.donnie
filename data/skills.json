@@ -1,0 +1,17 @@
+[
+  { "name": "Python", "category": "Backend" },
+  { "name": "Tailwind", "category": "Frontend" },
+  { "name": "Node.js", "category": "Backend" },
+  { "name": "Express.js", "category": "Backend" },
+  { "name": "Next.js", "category": "Frontend" },
+  { "name": "React", "category": "Frontend" },
+  { "name": "Flutter", "category": "Mobile" },
+  { "name": "Dart", "category": "Mobile" },
+  { "name": "Firestore", "category": "Database" },
+  { "name": "MySQL", "category": "Database" },
+  { "name": "TensorFlow", "category": "AI/ML" },
+  { "name": "Flask", "category": "Backend" },
+  { "name": "REST API", "category": "Backend" },
+  { "name": "Git", "category": "Tools" },
+  { "name": "Docker", "category": "Tools" }
+]

@@ -1,0 +1,14 @@
+{
+  "name": "Doni Julyano Risdianto",
+  "role": "Web Developer, Cloud Engineer & Mobile Developer",
+  "tagline": "I build things that actually work.",
+  "photo": "/mehh.png?height=400&width=400",
+  "email": "donnie.codes107@gmail.com",
+  "location": "Bekasi, Indonesia",
+  "bio": "Fresh graduate from Informatics with a passion for building robust backend systems and intuitive mobile applications. I love solving complex problems and turning ideas into reality through clean, efficient code.",
+  "socials": {
+    "github": "https://github.com/donniejr07",
+    "linkedin": "https://www.linkedin.com/in/dnjlynrsdnt",
+    "email": "donnie.codes107@gmail.com"
+  }
+}

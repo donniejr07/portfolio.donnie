@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Knowy App Backend",
+    "description": "Served as a Backend Developer (Cloud Engineer) in the capstone project, responsible for designing and building RESTful APIs to support application functionality. Implemented secure and scalable backend architecture using cloud services, ensuring efficient data processing and seamless integration with the frontend system.",
+    "tech": ["Express.js", "Flask", "JWT", "NoSQL", "Google Cloud Platform"],
+    "image": "/knowy.jpg?height=400&width=600",
+    "repo": "https://github.com/Capstone-project-Knowy/new-cloud",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Website JWPKu",
+    "description": "Completed a BNSP-certified Junior Web Programmer course, developing a dynamic online shop website with standard features such as CRUD operations, user authentication, and product management. Focused on implementing clean code practices and responsive design to deliver a functional and user-friendly web application.",
+    "tech": ["Laravel", "Bootstrap", "Tailwind", "MySQL"],
+    "image": "/WebsiteJWPku.png?height=400&width=600",
+    "repo": "https://github.com/donniejr07/WebsiteJWPku",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "PotaKu APP",
+    "description": "Developed a mobile application for detecting potato leaf diseases as part of my thesis project. Built a Machine Learning model using Convolutional Neural Network with the MobileNetV2 architecture to classify disease types accurately. The trained model was integrated into a mobile app and successfully deployed to the Google Play Store for real-world use.",
+    "tech": ["Flutter", "Flask", "Google Playstore"],
+    "image": "/potaku.png?height=400&width=600",
+    "repo": "https://github.com/donniejr07/PotaKu-APP",
+    "featured": true
+  }
+]
