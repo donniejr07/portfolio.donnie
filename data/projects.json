@@ -19,6 +19,15 @@
   },
   {
     "id": 3,
+    "title": "Gudang Kazumi Store",
+    "description": "Worked on a university project that involved creating a small-scale company and offering web development services to real clients. My team and I developed a warehouse inventory management website that allows users to manage, track, and update product stock efficiently through a dynamic and user-friendly interface.",
+    "tech": ["PHP", "MySQL", "Tailwind"],
+    "image": "/kazumi.jpg?height=400&width=600",
+    "repo": "https://github.com/HaudyArdonMaranSols/Client_Websites",
+    "featured": true
+  },
+  {
+    "id": 4,
     "title": "PotaKu APP",
     "description": "Developed a mobile application for detecting potato leaf diseases as part of my thesis project. Built a Machine Learning model using Convolutional Neural Network with the MobileNetV2 architecture to classify disease types accurately. The trained model was integrated into a mobile app and successfully deployed to the Google Play Store for real-world use.",
     "tech": ["Flutter", "Flask", "Google Playstore"],
