@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Doni Julyano",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/ikonnporto.png",
   }
 }
 
